@@ -1,1 +1,2 @@
 Wersja z galęzi TEST
+Linia do squasha 1
